@@ -70,3 +70,5 @@ Question épineuse, entre ceux qui hier encore crachaient dessus et qui aujourd'
 ## 📫 Contact
 
 🌐 [jsankare.dev](https://www.jsankare.dev/)
+
+![Snake animation](https://github.com/jsankare/jsankare/blob/output/github-contribution-grid-snake.svg)
